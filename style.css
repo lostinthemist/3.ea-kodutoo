@@ -1,0 +1,7 @@
+iframe {
+    display: none;
+}
+
+/* tärn tähistab kõike, ["http://www.google.com/*"] */
+/*   "js": ["contentScript.js"] */
+/* document.body.innerHTML = ''   kogu veebileht kustutati */

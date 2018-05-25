@@ -1,0 +1,15 @@
+{
+    "protocol": "sftp",
+    "host": "localhost",
+    "port": 2222,
+    "username": "lostinthemist",
+    "remotePath": "/home/rkaldmaa/public_html/eesrakendused/3.ea-kodutoo",
+    "uploadOnSave": true,
+    "syncMode": "full",
+    "ignore": [
+        ".vscode",
+        ".git",
+        ".DS_Store",
+        "node_modules"
+    ]
+}
